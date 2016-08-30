@@ -4,7 +4,7 @@
 
     <groupId>com.maven-trng</groupId>
     <artifactId>mvn-trng-webapp</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
     <packaging>war</packaging>
 
     <name>mvn-trng-webapp</name>
